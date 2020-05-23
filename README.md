@@ -1,2 +1,2 @@
 # USC-sequence-libraries
-The library of USC sequences
+The library of pmoA sequences, included USC(upland soil cluster).
